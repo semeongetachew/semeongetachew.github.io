@@ -2622,6 +2622,8 @@ input, select, textarea {
 			display: block;
 			margin: 2.5rem 0;
 			width: 100%;
+			border-radius: 20px;
+
 		}
 
 			.image.fit:first-child {
